@@ -1,0 +1,8 @@
+ GPU isn't used 
+ Used AVX 
+ Used FMA & AVX2 
+0
+
+ Error: There is no test.txt file for mAP calculation!
+ Don't use -map flag.
+ Or set valid=train.txt in your ./model/detector.data file. 
