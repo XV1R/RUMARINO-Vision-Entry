@@ -2,7 +2,7 @@
  Used AVX 
  Used FMA & AVX2 
 0
-
- Error: There is no test.txt file for mAP calculation!
- Don't use -map flag.
- Or set valid=train.txt in your ./model/detector.data file. 
+ Prepare additional network for mAP calculation...
+mini_batch = 1, batch = 16, time_steps = 1, train = 0 
+yolov3-tiny-generated
+mini_batch = 4, batch = 64, time_steps = 1, train = 1 
